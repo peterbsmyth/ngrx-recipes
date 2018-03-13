@@ -4,4 +4,5 @@
 * [What is XYZ?](first-question.md)
 * [How can I do X?](second-question.md)
 * [Update Many nested Models](update-many-nested-models.md)
+* [Chained API Calls](chained-calls.md)
 
