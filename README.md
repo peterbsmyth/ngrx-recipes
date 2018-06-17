@@ -5,9 +5,11 @@
 [This project is available on GitBook.](https://www.gitbook.com/book/peterbsmith2/ngrx-gitbook/)
 
 ### @ngrx/Entity
-[Update Many Nested Models](./update-many-nested-models.md)
-[Select Entity By Id](./select-entity-by-id.md)
+[Update Many Nested Models](./update-many-nested-models.md)  
+[Select Entity By Id](./select-entity-by-id.md)  
 
 ### @ngrx/Effects
 [Chained API Calls](./chained-calls.md)
 
+### Video Recipes
+[ngrx cycle in 2018](https://youtu.be/sTKrRoTXFL8)
