@@ -12,4 +12,5 @@
 [Chained API Calls](./chained-calls.md)
 
 ### Video Recipes
-[ngrx cycle in 2018](https://youtu.be/sTKrRoTXFL8)
+[ngrx: overview](https://youtu.be/sTKrRoTXFL8)
+[ngrx: actions](https://www.youtube.com/watch?v=x5eaUeNo1EM)
