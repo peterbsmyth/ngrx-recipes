@@ -13,5 +13,5 @@
 
 ### Video Recipes
 [ngrx: overview](https://youtu.be/sTKrRoTXFL8)  
-[ngrx: actions](https://www.youtube.com/watch?v=x5eaUeNo1EM)
+[ngrx: actions](https://www.youtube.com/watch?v=x5eaUeNo1EM)  
 [ngrx: reducers](https://youtu.be/0WypDQjTWd4)
